@@ -1,0 +1,14 @@
+1. start react js and node js server
+2. go to wifi and make network private
+3. stop firewall
+4. open link in phone
+5. login in phone using login id-"4" password-"naveen"
+6. login in laptop using login id-"10" password-"sonu"
+7. show database in laptop
+8. send message in phone
+9. show message in laptop
+10. send message in laptop
+11. show message in phone
+12. show updated database in workbench
+
+

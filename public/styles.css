@@ -1,0 +1,102 @@
+
+.inpfield{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 1%;
+    z-index: 2;
+}
+
+body{
+    background-color: #FEF9EF!important;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    height: 100vh;
+    width: 100vw;
+}
+
+.mess{
+    padding-bottom: 5%;
+}
+
+.self{
+    text-align: right;
+    background-color: #A2D2FF;
+    margin-right: 1% !important;
+}
+
+.other{
+    text-align: left;
+    background-color: #FF865E;
+    margin-left: 1% !important;
+}
+
+.msg{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding: 1.5%;
+    border-radius: 25px;
+    margin-bottom: 1%;
+    
+}
+
+p{
+    margin: 0 !important;
+}
+
+.oname{
+    background-color: #A2D2FF;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 3px;
+    position: absolute;
+    left: 0;
+}
+
+.yname{
+    background-color: #FF865E;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 3px;
+    position: absolute;
+    right: 0;
+}
+
+._time{
+    background-color: #FF865E;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 3px;
+    position: absolute;
+
+    
+}
+
+.time_{
+    background-color: #A2D2FF;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 3px;
+    position: absolute;
+    left: 0;
+}
+
+#error{
+    color: red;
+    margin-bottom: 1% !important;
+}
+
+.reg-field{
+    display: none;
+}
+
+#login_main{
+    height: 100%;    
+    text-align: center;
+}
+
+#cred{
+    margin: 0 25%;
+    width: 50%;
+}

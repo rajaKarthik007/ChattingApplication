@@ -23,7 +23,7 @@ function LOgin(lid, pass){
     localStorage.setItem('userId', parseInt(res.data))
     setId(parseInt(localStorage.getItem('userId')));
     if(id === -1){
-      setltxt("Incorrect credentials");
+      setltxt("Incorrect Credentials");
     }else{
       setltxt("");
     } 
